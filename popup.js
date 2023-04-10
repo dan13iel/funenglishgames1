@@ -1,0 +1,1 @@
+alert("If you haven't already please enable autoplay to play the background music. We record this data to make out website function better and to make it more compatable. Feel free to mute the tab at anythime.);
